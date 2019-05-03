@@ -8,6 +8,7 @@ PLEASE OPEN Visual studios then Tools > NuGet Package Manager > Microsoft.Azure.
 2) API KEY <br>
 PLEASE VISIT https://azure.microsoft.com/en-in/services/cognitive-services/computer-vision/ and click on "TRY COMPUTER VISION API" to get your API KEY <br>
 
+
 HOW TO USE THIS CODE EFFICTIVELY : <br>
 
 <ul>
