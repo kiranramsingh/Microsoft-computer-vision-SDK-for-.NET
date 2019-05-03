@@ -2,11 +2,12 @@
 A simple Microsoft computer vision SDK for .NET which extracts handwritten data into Text file.
 
 REQUIREMENTS : <br>
-
-1 ) Microsoft.Azure.CognitiveServices.Vision.ComputerVision Package should be installed in your solution/project<br>
-PLEASE OPEN Visual studios then Tools > NuGet Package Manager > Microsoft.Azure.CognitiveServices.Vision.ComputerVision <br>
-2) API KEY <br>
-PLEASE VISIT https://azure.microsoft.com/en-in/services/cognitive-services/computer-vision/ and click on "TRY COMPUTER VISION API" to get your API KEY <br>
+<ol>
+  <li>Microsoft.Azure.CognitiveServices.Vision.ComputerVision Package should be installed in your solution/project<br>
+PLEASE OPEN Visual studios then Tools > NuGet Package Manager > Microsoft.Azure.CognitiveServices.Vision.ComputerVision <br></li>
+  <li>API KEY <br>
+PLEASE VISIT https://azure.microsoft.com/en-in/services/cognitive-services/computer-vision/ and click on "TRY COMPUTER VISION API" to get your API KEY <br></li>
+</ol>
 
 
 HOW TO USE THIS CODE EFFICTIVELY : <br>
